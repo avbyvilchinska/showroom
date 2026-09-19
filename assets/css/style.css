@@ -409,7 +409,7 @@ footer.site-footer{ border-top: 1px solid var(--line); padding: 40px 0; }
 @media (max-width: 720px){ .pd-gallery-arrow{ display:none; } }
 
 /* stacked product blocks on a catalog page */
-.product-block{ padding: 56px 0; border-top: 1px solid var(--line); }
+.product-block{ padding: 56px 0; border-top: 1px solid var(--line); scroll-margin-top: 100px; }
 .product-block:first-of-type{ border-top: none; }
 
 @media (max-width: 860px){
